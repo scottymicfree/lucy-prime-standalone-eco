@@ -1,0 +1,6 @@
+{
+  "name": "Lucy Prime Standalone OS",
+  "description": "Local offline cognitive mesh architecture visualizer mimicking the 137-node system for Lucy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
