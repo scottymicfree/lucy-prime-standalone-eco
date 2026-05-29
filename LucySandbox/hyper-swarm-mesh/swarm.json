@@ -1,0 +1,17 @@
+{
+  "meshId": "H-SWARM-137",
+  "version": "1.0.0",
+  "nodes": [
+    "lucy-core",
+    "lucy-edge-1",
+    "fivem-layer",
+    "earth-ingestor"
+  ],
+  "strictGovernance": true,
+  "allowedSchemas": [
+    "v1",
+    "v2",
+    "experimental"
+  ],
+  "description": "Unified manifest governing multi-repo node configurations. Dictates schema allowed for runtime mounts."
+}
